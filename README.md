@@ -1,7 +1,7 @@
-# Baby House legal pages
+# Kabbo's Lab legal pages
 
-Static homepage, privacy policy, and terms for the personal **Baby House
-Pipeline** automation tool used by the Baby House YouTube channel.
+Static homepage, privacy policy, and terms for the personal **Kabbo's Lab
+Pipeline** automation tool used by the Kabbo's Lab YouTube channel.
 
 Published with GitHub Pages:
 
